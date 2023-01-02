@@ -9,7 +9,7 @@
       background: url("/images/background.png");
       background-size: cover;
       /* height: 4162px; */
-      background-repeat: none;
+      background-repeat: no-repeat;
     }
 
     .left {
